@@ -6,7 +6,6 @@ const app = express();
 
 app.use(json());
 
-const MongodbUrl = "mongodb+srv://alpha:12345@cluster0.bk4v9.mongodb.net/test?retryWrites=true&w=majority"
 
 // user model
 const User = mongoose.model("User", {
