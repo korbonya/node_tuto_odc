@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Node server</title>
+</head>
+<body>
+    <h1>Formation à ODC pour le full Stack dev</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt tempore autem, molestias esse nihil sequi maiores officia exercitationem optio eum odio sapiente quam facilis veritatis consequatur? Itaque recusandae aliquam ipsa.
+    </p>
+
+    <button type="button">Click me</button>
+    
+</body>
+</html>
